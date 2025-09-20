@@ -12,7 +12,7 @@
 
 <p align="left">
 📚 I'm a Computer Science student at King's College London. <br>
-⚜️ I was a scout for nine years!
+⚜️ I was a scout for nine years! <br>
 🎹 I enjoy playing the piano.
 </p>
 
